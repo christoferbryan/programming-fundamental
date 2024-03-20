@@ -22,6 +22,12 @@ public class Main {
         System.out.println("Angle: "+findAngleTriangle(80, 65));
         System.out.println("Difference: "+calculateDateDifference("2023-03-11", "2024-03-11"));
         System.out.println("Initials: "+printInitials("John Doe"));
+
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
     }
 
     static int findAreaRectangle(int length, int width){
